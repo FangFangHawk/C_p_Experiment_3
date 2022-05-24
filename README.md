@@ -2,7 +2,7 @@
 
 使用说明
 
-1. 点击`Syntactic_analysis.exe` 运行
+1. 点击`Semantic_analysis.exe` 运行
 
 2. 在窗口输入想要进行词法分析的文件路径
 
